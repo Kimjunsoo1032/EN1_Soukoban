@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 81cc67d9a8eea4442b5c4527d2269c59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 4989629478628649783, guid: 0372054e4f815974db5aba5ae5e17d91, type: 3}
+  - box1Prefab: {fileID: 7388934216043107421, guid: dda7937a158bdc844834f68662d1a490, type: 3}
+  - box2Prefab: {fileID: 7388934216043107421, guid: 19c5e166a64474a41bf84267119ab8d3, type: 3}
+  - box3Prefab: {fileID: 7388934216043107421, guid: 8660b3f7ad3024e4fa5a812eccc21888, type: 3}
+  - box4Prefab: {fileID: 7388934216043107421, guid: a95cc6cc8dd940447864a4ed6bd1dd04, type: 3}
+  - box5Prefab: {fileID: 7388934216043107421, guid: 1386d7a5af549a64dbd4a32c82127b99, type: 3}
+  - box6Prefab: {fileID: 7388934216043107421, guid: 5717f99e381f84a4f9f96f7cf77c2bab, type: 3}
+  - box7Prefab: {fileID: 7388934216043107421, guid: e09252237113a0140ae11cd84d56056a, type: 3}
+  - goal1Prefab: {fileID: 8167322107480967582, guid: 302bd7a5e6f629a42ac2702c9fde5f35, type: 3}
+  - goal2Prefab: {fileID: 8167322107480967582, guid: 7c84a0a659448e840acf147b7d5bc88a, type: 3}
+  - goal3Prefab: {fileID: 8167322107480967582, guid: 9907e30c787b2634b8d1d0f0e0195ad5, type: 3}
+  - goal4Prefab: {fileID: 8167322107480967582, guid: c9375d38cf63cb745959b2cb47840236, type: 3}
+  - goal5Prefab: {fileID: 8167322107480967582, guid: 267fe241e2df3174fae193c97997430c, type: 3}
+  - goal6Prefab: {fileID: 8167322107480967582, guid: f89d7835769bd5d4c9821306bf311cc7, type: 3}
+  - goal7Prefab: {fileID: 8167322107480967582, guid: 193ecebf4f5445a409c991f2a8bab7ac, type: 3}
+  - wallPrefab: {fileID: 7388934216043107421, guid: 5fd24cb26798ea3418a2f180365849cb, type: 3}
+  - clearText: {instanceID: 0}
+  - failText: {instanceID: 0}
+  - moveSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
